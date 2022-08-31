@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jsf-bean" />
+        <module name="jsf-conditional-navigation" />
+        <module name="jsf-from-navigation" />
+        <module name="jsf-hello" />
+        <module name="jsf-implicit-navigation" />
+        <module name="jsf-inject" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jsf-bean" target="8" />
+      <module name="jsf-conditional-navigation" target="8" />
+      <module name="jsf-from-navigation" target="8" />
+      <module name="jsf-hello" target="8" />
+      <module name="jsf-implicit-navigation" target="8" />
+      <module name="jsf-inject" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

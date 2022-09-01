@@ -7,7 +7,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.educacionit.java.web</groupId>
     <artifactId>jsf-text</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <name>jsf-text</name>
     <packaging>war</packaging>
     <description>Text field using JSF.</description>
